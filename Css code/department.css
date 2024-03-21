@@ -9,7 +9,7 @@
 }
 
 .backgroundimg {
-    background-image: url("aboutbackground.jpg");
+    background-image: url("img/aboutbackground.jpg");
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
